@@ -26,6 +26,10 @@ SECRET_KEY=""
 4.Connect it with ssh (or connect to instance as per your prefrence)
 5.install git on ec2
 6.install nodejs /install NPM
+7.Go to EC2>instance select the instance 
+8.go to security >inbond rules 
+9. add a inbond rule on port 3000 to be access on local internet 
+10. go to browser enter the public IP for ec2:3000 
 
 
 
